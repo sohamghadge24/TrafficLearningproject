@@ -3,1404 +3,1404 @@
         {
             "episode": 1,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3543.8286283565685,
+            "avg_cost": 0.05630839002040577,
             "steps": 3600
         },
         {
             "episode": 2,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3503.814742490649,
+            "avg_cost": 0.0571939415015125,
             "steps": 3600
         },
         {
             "episode": 3,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3564.5718089193106,
+            "avg_cost": 0.05043913349237603,
             "steps": 3600
         },
         {
             "episode": 4,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3635.3066332265735,
+            "avg_cost": 0.0446787594712805,
             "steps": 3600
         },
         {
             "episode": 5,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3506.483829030767,
+            "avg_cost": 0.055761681740405036,
             "steps": 3600
         },
         {
             "episode": 6,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3552.5501265712082,
+            "avg_cost": 0.05100164171411759,
             "steps": 3600
         },
         {
             "episode": 7,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3535.4278411492705,
+            "avg_cost": 0.0561249889451493,
             "steps": 3600
         },
         {
             "episode": 8,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3535.3156083635986,
+            "avg_cost": 0.052122195372099264,
             "steps": 3600
         },
         {
             "episode": 9,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3546.2896548556164,
+            "avg_cost": 0.05257064368853915,
             "steps": 3600
         },
         {
             "episode": 10,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3593.572525165975,
+            "avg_cost": 0.04864160959026776,
             "steps": 3600
         },
         {
             "episode": 11,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3591.846491723467,
+            "avg_cost": 0.04746040633892537,
             "steps": 3600
         },
         {
             "episode": 12,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3617.2966429516673,
+            "avg_cost": 0.045155380862351095,
             "steps": 3600
         },
         {
             "episode": 13,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3641.0897455736995,
+            "avg_cost": 0.0447985825361684,
             "steps": 3600
         },
         {
             "episode": 14,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3653.8048927225173,
+            "avg_cost": 0.043448952885422235,
             "steps": 3600
         },
         {
             "episode": 15,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3605.7226899191737,
+            "avg_cost": 0.04672088989147192,
             "steps": 3600
         },
         {
             "episode": 16,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3635.664773888886,
+            "avg_cost": 0.040062525605899284,
             "steps": 3600
         },
         {
             "episode": 17,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3613.0071281827986,
+            "avg_cost": 0.046295028467817856,
             "steps": 3600
         },
         {
             "episode": 18,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3634.5755812488496,
+            "avg_cost": 0.04276584376367585,
             "steps": 3600
         },
         {
             "episode": 19,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3561.8617058992386,
+            "avg_cost": 0.04808167543339854,
             "steps": 3600
         },
         {
             "episode": 20,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3615.4508833140135,
+            "avg_cost": 0.045737000598520455,
             "steps": 3600
         },
         {
             "episode": 21,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3686.255896061659,
+            "avg_cost": 0.04051708053732808,
             "steps": 3600
         },
         {
             "episode": 22,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3666.3338338586036,
+            "avg_cost": 0.03912154348140272,
             "steps": 3600
         },
         {
             "episode": 23,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3631.279955417849,
+            "avg_cost": 0.04221490706394737,
             "steps": 3600
         },
         {
             "episode": 24,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3661.5656794104725,
+            "avg_cost": 0.039669343649552,
             "steps": 3600
         },
         {
             "episode": 25,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3623.6603448837996,
+            "avg_cost": 0.0435049274072258,
             "steps": 3600
         },
         {
             "episode": 26,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3679.104686535895,
+            "avg_cost": 0.04103980196290649,
             "steps": 3600
         },
         {
             "episode": 27,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3592.6604859530926,
+            "avg_cost": 0.04493669536352778,
             "steps": 3600
         },
         {
             "episode": 28,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3697.497060891241,
+            "avg_cost": 0.0381447288019505,
             "steps": 3600
         },
         {
             "episode": 29,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3650.0271650888026,
+            "avg_cost": 0.04057341199342368,
             "steps": 3600
         },
         {
             "episode": 30,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3684.974433833733,
+            "avg_cost": 0.040396197066357775,
             "steps": 3600
         },
         {
             "episode": 31,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3662.710366847925,
+            "avg_cost": 0.03960894365976047,
             "steps": 3600
         },
         {
             "episode": 32,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3711.3772110855207,
+            "avg_cost": 0.03734783650498785,
             "steps": 3600
         },
         {
             "episode": 33,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3678.0996184395626,
+            "avg_cost": 0.03854017466196739,
             "steps": 3600
         },
         {
             "episode": 34,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3721.126326341182,
+            "avg_cost": 0.03539282859548823,
             "steps": 3600
         },
         {
             "episode": 35,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3694.2552527450025,
+            "avg_cost": 0.036387742585890614,
             "steps": 3600
         },
         {
             "episode": 36,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3669.9150007143617,
+            "avg_cost": 0.03810827373882704,
             "steps": 3600
         },
         {
             "episode": 37,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3708.172452721745,
+            "avg_cost": 0.03571979778113827,
             "steps": 3600
         },
         {
             "episode": 38,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3713.592546287924,
+            "avg_cost": 0.03543359909335979,
             "steps": 3600
         },
         {
             "episode": 39,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3676.939401894808,
+            "avg_cost": 0.04012370975959736,
             "steps": 3600
         },
         {
             "episode": 40,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3691.5909227356315,
+            "avg_cost": 0.0367637550262993,
             "steps": 3600
         },
         {
             "episode": 41,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3682.1302457610145,
+            "avg_cost": 0.04074960977408207,
             "steps": 3600
         },
         {
             "episode": 42,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3616.8594281099504,
+            "avg_cost": 0.04336026673567378,
             "steps": 3600
         },
         {
             "episode": 43,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3635.1933772675693,
+            "avg_cost": 0.04281155800899594,
             "steps": 3600
         },
         {
             "episode": 44,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3606.762738354504,
+            "avg_cost": 0.044541498549903434,
             "steps": 3600
         },
         {
             "episode": 45,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3609.270050533116,
+            "avg_cost": 0.046360518832613405,
             "steps": 3600
         },
         {
             "episode": 46,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3627.630828656256,
+            "avg_cost": 0.04813777859775453,
             "steps": 3600
         },
         {
             "episode": 47,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3644.296764805913,
+            "avg_cost": 0.044298871094749,
             "steps": 3600
         },
         {
             "episode": 48,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3657.6820844132453,
+            "avg_cost": 0.042167718212068495,
             "steps": 3600
         },
         {
             "episode": 49,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3606.0257801562548,
+            "avg_cost": 0.04573059970228415,
             "steps": 3600
         },
         {
             "episode": 50,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3663.9461218118668,
+            "avg_cost": 0.04241991378884349,
             "steps": 3600
         },
         {
             "episode": 51,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3666.3647730648518,
+            "avg_cost": 0.04222149509884831,
             "steps": 3600
         },
         {
             "episode": 52,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3659.8784810602665,
+            "avg_cost": 0.04309008421932554,
             "steps": 3600
         },
         {
             "episode": 53,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3669.13484634459,
+            "avg_cost": 0.04135476921012418,
             "steps": 3600
         },
         {
             "episode": 54,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3650.963553061709,
+            "avg_cost": 0.04280215011314593,
             "steps": 3600
         },
         {
             "episode": 55,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3597.1262109056115,
+            "avg_cost": 0.04791069293187724,
             "steps": 3600
         },
         {
             "episode": 56,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3670.688394278288,
+            "avg_cost": 0.03982976242582986,
             "steps": 3600
         },
         {
             "episode": 57,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3664.856351595372,
+            "avg_cost": 0.044563366764406157,
             "steps": 3600
         },
         {
             "episode": 58,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3665.464783541858,
+            "avg_cost": 0.042835661366374955,
             "steps": 3600
         },
         {
             "episode": 59,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3694.2925260663033,
+            "avg_cost": 0.03866212379497786,
             "steps": 3600
         },
         {
             "episode": 60,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3646.346403863281,
+            "avg_cost": 0.04308620083417433,
             "steps": 3600
         },
         {
             "episode": 61,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3705.232333391905,
+            "avg_cost": 0.04047318317862745,
             "steps": 3600
         },
         {
             "episode": 62,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3595.8931738212705,
+            "avg_cost": 0.04923938023974188,
             "steps": 3600
         },
         {
             "episode": 63,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3664.4716414771974,
+            "avg_cost": 0.042538530302311604,
             "steps": 3600
         },
         {
             "episode": 64,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3624.2071274220943,
+            "avg_cost": 0.04634825431955202,
             "steps": 3600
         },
         {
             "episode": 65,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3645.2482669353485,
+            "avg_cost": 0.04356346702953386,
             "steps": 3600
         },
         {
             "episode": 66,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3667.825729444623,
+            "avg_cost": 0.04247933653377307,
             "steps": 3600
         },
         {
             "episode": 67,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3612.541527673602,
+            "avg_cost": 0.046962433363724916,
             "steps": 3600
         },
         {
             "episode": 68,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3663.4497259035707,
+            "avg_cost": 0.043856183151688634,
             "steps": 3600
         },
         {
             "episode": 69,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3634.081362016499,
+            "avg_cost": 0.044319082003785294,
             "steps": 3600
         },
         {
             "episode": 70,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3628.816678442061,
+            "avg_cost": 0.04368593834250027,
             "steps": 3600
         },
         {
             "episode": 71,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3702.58534637047,
+            "avg_cost": 0.04064788394627006,
             "steps": 3600
         },
         {
             "episode": 72,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3622.1253424752504,
+            "avg_cost": 0.04459853306749008,
             "steps": 3600
         },
         {
             "episode": 73,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3651.4761879071593,
+            "avg_cost": 0.03974368206962633,
             "steps": 3600
         },
         {
             "episode": 74,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3682.6611411143094,
+            "avg_cost": 0.04101959389039419,
             "steps": 3600
         },
         {
             "episode": 75,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3690.7537718713284,
+            "avg_cost": 0.04000386354047805,
             "steps": 3600
         },
         {
             "episode": 76,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3709.502319328487,
+            "avg_cost": 0.036352308478542705,
             "steps": 3600
         },
         {
             "episode": 77,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3670.146475613117,
+            "avg_cost": 0.04082130746405003,
             "steps": 3600
         },
         {
             "episode": 78,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3665.0151874125004,
+            "avg_cost": 0.04064437169193601,
             "steps": 3600
         },
         {
             "episode": 79,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3645.340198852122,
+            "avg_cost": 0.043701090678158735,
             "steps": 3600
         },
         {
             "episode": 80,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3656.9208885822445,
+            "avg_cost": 0.04246659064956475,
             "steps": 3600
         },
         {
             "episode": 81,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3618.331239167601,
+            "avg_cost": 0.045754077655340855,
             "steps": 3600
         },
         {
             "episode": 82,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3628.3016627132893,
+            "avg_cost": 0.046861535261204054,
             "steps": 3600
         },
         {
             "episode": 83,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3633.428100556135,
+            "avg_cost": 0.04702908646276531,
             "steps": 3600
         },
         {
             "episode": 84,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3632.491315446794,
+            "avg_cost": 0.04886591123753331,
             "steps": 3600
         },
         {
             "episode": 85,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3647.516156118363,
+            "avg_cost": 0.04285978367183513,
             "steps": 3600
         },
         {
             "episode": 86,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3662.6481106206775,
+            "avg_cost": 0.04434478955110535,
             "steps": 3600
         },
         {
             "episode": 87,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3629.2084310501814,
+            "avg_cost": 0.042125586200402014,
             "steps": 3600
         },
         {
             "episode": 88,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3657.162993758917,
+            "avg_cost": 0.041803378238174545,
             "steps": 3600
         },
         {
             "episode": 89,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3626.8219849914312,
+            "avg_cost": 0.04335874308463341,
             "steps": 3600
         },
         {
             "episode": 90,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3649.7702291086316,
+            "avg_cost": 0.04257097655538625,
             "steps": 3600
         },
         {
             "episode": 91,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3648.5305702956393,
+            "avg_cost": 0.043017304695353635,
             "steps": 3600
         },
         {
             "episode": 92,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3588.5600251220167,
+            "avg_cost": 0.04653517368598841,
             "steps": 3600
         },
         {
             "episode": 93,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3640.3465526322834,
+            "avg_cost": 0.04399893257663482,
             "steps": 3600
         },
         {
             "episode": 94,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3679.063675403595,
+            "avg_cost": 0.04034430744113504,
             "steps": 3600
         },
         {
             "episode": 95,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3640.087946165353,
+            "avg_cost": 0.043123512132636585,
             "steps": 3600
         },
         {
             "episode": 96,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3683.603938013315,
+            "avg_cost": 0.03883185803359892,
             "steps": 3600
         },
         {
             "episode": 97,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3572.8197372136638,
+            "avg_cost": 0.04751822953034813,
             "steps": 3600
         },
         {
             "episode": 98,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3665.051005922258,
+            "avg_cost": 0.04163533496489334,
             "steps": 3600
         },
         {
             "episode": 99,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3589.169305719435,
+            "avg_cost": 0.046217409031168145,
             "steps": 3600
         },
         {
             "episode": 100,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3665.169980758801,
+            "avg_cost": 0.042498871079814204,
             "steps": 3600
         },
         {
             "episode": 101,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3670.9957035519183,
+            "avg_cost": 0.03915983875450264,
             "steps": 3600
         },
         {
             "episode": 102,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3649.6674884185195,
+            "avg_cost": 0.042793215868748825,
             "steps": 3600
         },
         {
             "episode": 103,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3645.2130566239357,
+            "avg_cost": 0.04190516737069831,
             "steps": 3600
         },
         {
             "episode": 104,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3680.834139972925,
+            "avg_cost": 0.04049879006239482,
             "steps": 3600
         },
         {
             "episode": 105,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3711.346564345062,
+            "avg_cost": 0.036756434410215456,
             "steps": 3600
         },
         {
             "episode": 106,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3631.8524927273393,
+            "avg_cost": 0.04224616033309657,
             "steps": 3600
         },
         {
             "episode": 107,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3645.918797440827,
+            "avg_cost": 0.04181224930908583,
             "steps": 3600
         },
         {
             "episode": 108,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3603.2808231525123,
+            "avg_cost": 0.04577060998947773,
             "steps": 3600
         },
         {
             "episode": 109,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3676.4849827066064,
+            "avg_cost": 0.03840159307997156,
             "steps": 3600
         },
         {
             "episode": 110,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3616.4537050426006,
+            "avg_cost": 0.04389042118434898,
             "steps": 3600
         },
         {
             "episode": 111,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3649.3714753724635,
+            "avg_cost": 0.04276279003242962,
             "steps": 3600
         },
         {
             "episode": 112,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3667.679785354063,
+            "avg_cost": 0.04104734622200744,
             "steps": 3600
         },
         {
             "episode": 113,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3608.0704582966864,
+            "avg_cost": 0.04413693800594451,
             "steps": 3600
         },
         {
             "episode": 114,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3613.2082638032734,
+            "avg_cost": 0.042989162970528315,
             "steps": 3600
         },
         {
             "episode": 115,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3620.1240503676236,
+            "avg_cost": 0.0426655208641508,
             "steps": 3600
         },
         {
             "episode": 116,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3613.745305735618,
+            "avg_cost": 0.047208333984793474,
             "steps": 3600
         },
         {
             "episode": 117,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3618.866634670645,
+            "avg_cost": 0.045786739828116776,
             "steps": 3600
         },
         {
             "episode": 118,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3605.1619240939617,
+            "avg_cost": 0.044192083954759355,
             "steps": 3600
         },
         {
             "episode": 119,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3619.6298280209303,
+            "avg_cost": 0.04359126448540741,
             "steps": 3600
         },
         {
             "episode": 120,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3622.882668554783,
+            "avg_cost": 0.04505110681639053,
             "steps": 3600
         },
         {
             "episode": 121,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3595.6976822316647,
+            "avg_cost": 0.046547839126433246,
             "steps": 3600
         },
         {
             "episode": 122,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3570.167220182717,
+            "avg_cost": 0.04933867198014114,
             "steps": 3600
         },
         {
             "episode": 123,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3593.185477875173,
+            "avg_cost": 0.04468301954381685,
             "steps": 3600
         },
         {
             "episode": 124,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3572.995218832046,
+            "avg_cost": 0.04968993258377951,
             "steps": 3600
         },
         {
             "episode": 125,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3543.7478911429644,
+            "avg_cost": 0.054913014872258324,
             "steps": 3600
         },
         {
             "episode": 126,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3601.157833248377,
+            "avg_cost": 0.04853862528579258,
             "steps": 3600
         },
         {
             "episode": 127,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3560.0329364687204,
+            "avg_cost": 0.04975842322811433,
             "steps": 3600
         },
         {
             "episode": 128,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3589.639717774,
+            "avg_cost": 0.04754769799829875,
             "steps": 3600
         },
         {
             "episode": 129,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3565.4009802732617,
+            "avg_cost": 0.050068248093205814,
             "steps": 3600
         },
         {
             "episode": 130,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3532.180198304355,
+            "avg_cost": 0.05388177982466813,
             "steps": 3600
         },
         {
             "episode": 131,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3583.8135777562857,
+            "avg_cost": 0.049498034858390584,
             "steps": 3600
         },
         {
             "episode": 132,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3574.7398362085223,
+            "avg_cost": 0.04956941001362995,
             "steps": 3600
         },
         {
             "episode": 133,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3553.2419546470046,
+            "avg_cost": 0.05069425779291325,
             "steps": 3600
         },
         {
             "episode": 134,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3593.6300676465034,
+            "avg_cost": 0.04911558984436043,
             "steps": 3600
         },
         {
             "episode": 135,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3604.6043125186116,
+            "avg_cost": 0.04402108655595738,
             "steps": 3600
         },
         {
             "episode": 136,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3628.433901362121,
+            "avg_cost": 0.046844772908629644,
             "steps": 3600
         },
         {
             "episode": 137,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3593.579884352628,
+            "avg_cost": 0.047343999368733625,
             "steps": 3600
         },
         {
             "episode": 138,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3582.2570612728596,
+            "avg_cost": 0.04698421067183113,
             "steps": 3600
         },
         {
             "episode": 139,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3577.134232810815,
+            "avg_cost": 0.04990371990690215,
             "steps": 3600
         },
         {
             "episode": 140,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3611.2165313884616,
+            "avg_cost": 0.0507716096623335,
             "steps": 3600
         },
         {
             "episode": 141,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3572.1510362196714,
+            "avg_cost": 0.04815208695602551,
             "steps": 3600
         },
         {
             "episode": 142,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3574.2907878104597,
+            "avg_cost": 0.05056091784835896,
             "steps": 3600
         },
         {
             "episode": 143,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3600.1160986721516,
+            "avg_cost": 0.04573515190057353,
             "steps": 3600
         },
         {
             "episode": 144,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3588.3466464672238,
+            "avg_cost": 0.04638806880141298,
             "steps": 3600
         },
         {
             "episode": 145,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3527.548449922353,
+            "avg_cost": 0.051356078753791126,
             "steps": 3600
         },
         {
             "episode": 146,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3570.99398534745,
+            "avg_cost": 0.04802144048114618,
             "steps": 3600
         },
         {
             "episode": 147,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3535.3144046850502,
+            "avg_cost": 0.05121138659512831,
             "steps": 3600
         },
         {
             "episode": 148,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3569.553109291941,
+            "avg_cost": 0.048738255500793456,
             "steps": 3600
         },
         {
             "episode": 149,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3564.978199802339,
+            "avg_cost": 0.04783817741114439,
             "steps": 3600
         },
         {
             "episode": 150,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3612.109327148646,
+            "avg_cost": 0.04523094618201463,
             "steps": 3600
         },
         {
             "episode": 151,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3602.7318987883627,
+            "avg_cost": 0.0441324158192664,
             "steps": 3600
         },
         {
             "episode": 152,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3632.655000705272,
+            "avg_cost": 0.04439023974105819,
             "steps": 3600
         },
         {
             "episode": 153,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3555.4651626870036,
+            "avg_cost": 0.049401561389677225,
             "steps": 3600
         },
         {
             "episode": 154,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3600.8240411337465,
+            "avg_cost": 0.04747692526214652,
             "steps": 3600
         },
         {
             "episode": 155,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3577.9263207428157,
+            "avg_cost": 0.049563063439240475,
             "steps": 3600
         },
         {
             "episode": 156,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3574.6565331220627,
+            "avg_cost": 0.04791189703741111,
             "steps": 3600
         },
         {
             "episode": 157,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3607.05294014886,
+            "avg_cost": 0.04689820428146049,
             "steps": 3600
         },
         {
             "episode": 158,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3551.4935186058283,
+            "avg_cost": 0.051892517873202454,
             "steps": 3600
         },
         {
             "episode": 159,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3520.3454366512597,
+            "avg_cost": 0.050299729608555534,
             "steps": 3600
         },
         {
             "episode": 160,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3637.098758210428,
+            "avg_cost": 0.041903784130505904,
             "steps": 3600
         },
         {
             "episode": 161,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3651.412299251184,
+            "avg_cost": 0.04281352632575565,
             "steps": 3600
         },
         {
             "episode": 162,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3625.947355903685,
+            "avg_cost": 0.04424097817190664,
             "steps": 3600
         },
         {
             "episode": 163,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3627.4700176324695,
+            "avg_cost": 0.043391332617288246,
             "steps": 3600
         },
         {
             "episode": 164,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3617.705596372485,
+            "avg_cost": 0.04484774988875466,
             "steps": 3600
         },
         {
             "episode": 165,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3628.2419443675317,
+            "avg_cost": 0.04306343062172851,
             "steps": 3600
         },
         {
             "episode": 166,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3617.288069996983,
+            "avg_cost": 0.04425017007083321,
             "steps": 3600
         },
         {
             "episode": 167,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3632.1057257018983,
+            "avg_cost": 0.04482439561604729,
             "steps": 3600
         },
         {
             "episode": 168,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3600.274071611464,
+            "avg_cost": 0.04632919544483431,
             "steps": 3600
         },
         {
             "episode": 169,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3610.0758448392153,
+            "avg_cost": 0.048817134325185585,
             "steps": 3600
         },
         {
             "episode": 170,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3606.571496894583,
+            "avg_cost": 0.047372494356887826,
             "steps": 3600
         },
         {
             "episode": 171,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3607.2399152219296,
+            "avg_cost": 0.0426991325417637,
             "steps": 3600
         },
         {
             "episode": 172,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3632.0262736678123,
+            "avg_cost": 0.04041708748490136,
             "steps": 3600
         },
         {
             "episode": 173,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3681.062093012035,
+            "avg_cost": 0.04109457653326293,
             "steps": 3600
         },
         {
             "episode": 174,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3623.0374289266765,
+            "avg_cost": 0.047184765195318806,
             "steps": 3600
         },
         {
             "episode": 175,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3656.6883422657847,
+            "avg_cost": 0.04090236347362709,
             "steps": 3600
         },
         {
             "episode": 176,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3668.48680492118,
+            "avg_cost": 0.040353182728738626,
             "steps": 3600
         },
         {
             "episode": 177,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3632.0302804345265,
+            "avg_cost": 0.04464179594043849,
             "steps": 3600
         },
         {
             "episode": 178,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3708.5231326147914,
+            "avg_cost": 0.039186752109607266,
             "steps": 3600
         },
         {
             "episode": 179,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3695.1817403249443,
+            "avg_cost": 0.04121314160616344,
             "steps": 3600
         },
         {
             "episode": 180,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3631.556385098025,
+            "avg_cost": 0.04210920746160102,
             "steps": 3600
         },
         {
             "episode": 181,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3652.61314188689,
+            "avg_cost": 0.046324608352733776,
             "steps": 3600
         },
         {
             "episode": 182,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3655.7179711200297,
+            "avg_cost": 0.04407437253310086,
             "steps": 3600
         },
         {
             "episode": 183,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3684.6060869656503,
+            "avg_cost": 0.041576649128562876,
             "steps": 3600
         },
         {
             "episode": 184,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3627.9875971600413,
+            "avg_cost": 0.04570720609807823,
             "steps": 3600
         },
         {
             "episode": 185,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3643.707110211253,
+            "avg_cost": 0.04347757273819298,
             "steps": 3600
         },
         {
             "episode": 186,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3639.6457559242845,
+            "avg_cost": 0.04110459984357779,
             "steps": 3600
         },
         {
             "episode": 187,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3655.506624996662,
+            "avg_cost": 0.04176978714233782,
             "steps": 3600
         },
         {
             "episode": 188,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3636.3856530226767,
+            "avg_cost": 0.04398057983683733,
             "steps": 3600
         },
         {
             "episode": 189,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3674.3747741831467,
+            "avg_cost": 0.04111255751664026,
             "steps": 3600
         },
         {
             "episode": 190,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3701.2329441718757,
+            "avg_cost": 0.03668199939536862,
             "steps": 3600
         },
         {
             "episode": 191,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3643.6380346491933,
+            "avg_cost": 0.04333900694489583,
             "steps": 3600
         },
         {
             "episode": 192,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3693.9787892811,
+            "avg_cost": 0.04150369058563633,
             "steps": 3600
         },
         {
             "episode": 193,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3670.5389237711206,
+            "avg_cost": 0.04317496482373422,
             "steps": 3600
         },
         {
             "episode": 194,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3684.481829702854,
+            "avg_cost": 0.04103050714656193,
             "steps": 3600
         },
         {
             "episode": 195,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3657.469882376492,
+            "avg_cost": 0.04054584638577782,
             "steps": 3600
         },
         {
             "episode": 196,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3674.985838948749,
+            "avg_cost": 0.04236828404446391,
             "steps": 3600
         },
         {
             "episode": 197,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3661.2646867856383,
+            "avg_cost": 0.04174522896465432,
             "steps": 3600
         },
         {
             "episode": 198,
             "scenario": "low",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3651.4838475100696,
+            "avg_cost": 0.04539779449450887,
             "steps": 3600
         },
         {
             "episode": 199,
             "scenario": "medium",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3667.3566318154335,
+            "avg_cost": 0.043848912765323704,
             "steps": 3600
         },
         {
             "episode": 200,
             "scenario": "high",
-            "reward": 0.0,
-            "avg_cost": 0.0,
+            "reward": 3697.3613504236564,
+            "avg_cost": 0.039397332951064325,
             "steps": 3600
         }
     ],
-    "best_reward": 0.0,
-    "best_episode": 1
+    "best_reward": 3721.126326341182,
+    "best_episode": 34
 }
