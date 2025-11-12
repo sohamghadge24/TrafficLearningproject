@@ -4,7 +4,7 @@ import traci
 
 # Make sure SUMO_HOME is set
 if "SUMO_HOME" not in os.environ:
-    os.environ["SUMO_HOME"] = "/opt/homebrew/share/sumo"  # Standard Homebrew SUMO path
+    os.environ["SUMO_HOME"] = "/opt/homebrew/opt/sumo@1.19.0/share/sumo"  # Change if different
 
 # Add SUMO tools to the Python path
 tools = os.path.join(os.environ["SUMO_HOME"], "tools")
